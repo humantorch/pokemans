@@ -17,7 +17,7 @@ $headerHeight: 80px;
   -o-transition: $x;
   transition: $x;
 }
-$trans: all 0.3s ease-in-out;
+$trans: all .3s ease-in-out;
 
 * {
   -webkit-box-sizing: border-box;
@@ -37,6 +37,19 @@ header {
   width: 100%;
   height: $headerHeight;
   background-color: #ddd;
+  h2 {
+    margin-top: -30px;
+    font-size: 0.6em;
+    text-transform: none;
+    font-weight: normal;
+    a, a:visited {
+      color: black;
+      @include transition($trans);
+    }
+    a:hover {
+      color: #00f;
+    }
+  }
 }
 input {
   line-height: 2em;

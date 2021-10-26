@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <header>
-      <h1>Pokedex</h1>
+      <h1>Pokedex</h1><h2><a href="https://github.com/humantorch/pokemans">https://github.com/humantorch/pokemans</a></h2>
     </header>
     <!-- types sidebar -->
     <div class="column col--types">
