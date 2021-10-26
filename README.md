@@ -2,6 +2,8 @@
 
 ## preamble
 
+A live version of this is running at https://main.d2wkiu11w7t9kq.amplifyapp.com
+
 This was built using the following packages:
 
 * `element-ui` UI Kit (https://element.eleme.io/)
