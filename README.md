@@ -2,7 +2,7 @@
 
 ## preamble
 
-A live version of this is running at https://victorious-sand-0dea55e10.azurestaticapps.net
+A live version of this is running at https://main.d2wkiu11w7t9kq.amplifyapp.com
 
 This was built using the following packages:
 
